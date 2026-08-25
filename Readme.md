@@ -9,7 +9,7 @@
 
 ## Table of contents
 
-- [Installation](#installation)
+- [InstallatioN](#installation)
 - [Features](#features)
 - [Docs \& Community](#docs--community)
 - [Quick Start](#quick-start)
